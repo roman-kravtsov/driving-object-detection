@@ -1,0 +1,26 @@
+<annotation>
+	<folder>beamng</folder>
+	<filename>green-bng-14.png</filename>
+	<path>E:\Study\driving-object-detection\images\beamng\green-bng-14.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>green</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>994</xmin>
+			<ymin>552</ymin>
+			<xmax>1054</xmax>
+			<ymax>694</ymax>
+		</bndbox>
+	</object>
+</annotation>
